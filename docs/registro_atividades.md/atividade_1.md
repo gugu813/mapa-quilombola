@@ -6,7 +6,9 @@
 ---
 
 ## 1. OBJETIVO DA COLETA
+
 Descobrir:
+
 1. Quais memórias da comunidade devem ser registradas
 2. Como elas serão validadas
 3. Quais informações poderão ser publicadas no sistema
