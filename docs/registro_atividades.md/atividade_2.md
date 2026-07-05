@@ -13,4 +13,3 @@ Abaixo estão listados os perfis dos stakeholders chaves que serão entrevistado
 3. **Gestor Acadêmico / Diretor de Ensino (Tomador de Decisão):**
    - *Por que é importante:* Define as diretrizes institucionais, os níveis de segurança exigidos e os relatórios gerenciais necessários para acompanhar o desempenho e a regularidade do campus.
 
-#
